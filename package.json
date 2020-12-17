@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sunardimugim/nodejs_pet/issues"
   },
-  "homepage": "https://github.com/sunardimugim/nodejs_pet#readme"
+  "homepage": "https://github.com/sunardimugim/nodejs_pet#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
